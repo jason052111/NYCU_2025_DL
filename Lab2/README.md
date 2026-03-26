@@ -1,8 +1,5 @@
 # Deep Learning Lab 2: Semantic Segmentation
 
-> Master's Program in Computer Science / Deep Learning Course Assignment
-> Author: Cheng-En Yang (314551147)
-
 ## 📝 Project Overview
 This project implements U-Net and ResNet34+U-Net models for Semantic Segmentation. To enhance the models' ability to capture foreground objects, both architectures integrate the CBAM (Convolutional Block Attention Module), including Channel Attention and Spatial Attention mechanisms.
 
