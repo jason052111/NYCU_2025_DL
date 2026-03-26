@@ -1,8 +1,5 @@
 # 🚀 Deep Learning Course Assignments (Lab 1 - Lab 7)
 
-> Master's Program in Computer Science and Engineering
-> **Author**: Cheng-En Yang (314551147)
-
 Welcome to my Deep Learning repository! This workspace contains a complete series of hands-on projects, ranging from building foundational neural networks from scratch to implementing advanced Generative AI and Reinforcement Learning models.
 
 ## 🌟 My Journey & Key Learnings
