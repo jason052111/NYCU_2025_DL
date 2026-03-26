@@ -1,0 +1,2 @@
+test.json accuracy: 0.8055555555555556
+new_test.json accuracy: 0.8690476190476191
