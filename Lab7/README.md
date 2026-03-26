@@ -1,4 +1,4 @@
-<details>
+
 
 # Deep Learning Lab 7: Policy Gradient Methods (A2C & PPO)
 
