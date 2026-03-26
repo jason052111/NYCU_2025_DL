@@ -1,11 +1,4 @@
-<details>
-<summary>👉 Click to expand Lab 6 Report Details</summary>
-
 # Deep Learning Lab 6: Conditional Image Generation with DDPM
-
-> Master's Program in Computer Science and Engineering
-> **Student ID**: 314551147
-> **Author**: Cheng-En Yang
 
 ---
 
