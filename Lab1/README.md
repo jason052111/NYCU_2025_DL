@@ -1,8 +1,5 @@
 # Deep Learning Lab 1: Two-Layer Neural Network
 
-> 國立陽明交通大學 (或相應學校) 資工所 / Deep Learning 課程作業一
-> Author: 楊承恩 (314551147)
-
 ## 📝 Project Overview
 
 此專案實作了一個包含兩層 Hidden Layer 的神經網路 (Neural Network)。
