@@ -54,11 +54,6 @@ td_error = values - targets
 * **Task 2 (Vanilla DQN)**: Required a significantly longer training time (approximately 10 million frames) to escape the low-reward range (around -20) and slowly climb to positive rewards (10+). This indicates substantially lower learning efficiency.
 * **Task 3 (Enhanced DQN)**: Achieved positive rewards with relatively fewer training samples. The integration of DQN enhancements—such as Double DQN, Dueling Network architectures, and Prioritized Experience Replay (PER)—effectively and noticeably improved sample efficiency.
 
-### Weights & Biases (Wandb) Logs
-* **Task 1**: [View Run on Wandb](https://wandb.ai/jason052102-national-yang-ming-chiao-tung-university/DLP-Lab5-DQN-CartPole/runs/h6d3nfz8)
-* **Task 2**: [View Run on Wandb](https://wandb.ai/jason052102-national-yang-ming-chiao-tung-university/DLP-Lab5-DQN-ALE/runs/eay0lcyv)
-* **Task 3**: [View Run on Wandb](https://wandb.ai/jason052102-national-yang-ming-chiao-tung-university/DLP-Lab5-DQN-ALE/runs/oucka8jz)
-
 ---
 
 ## 🚀 4. Execution Commands
